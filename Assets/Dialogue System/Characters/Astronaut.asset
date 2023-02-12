@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 690cf647a0035f24aa9ce2b247f1a937, type: 3}
+  m_Name: Astronaut
+  m_EditorClassIdentifier: 
+  Name: You
+  Voice: {fileID: 8300000, guid: a6866abbe6baa0549ae5b8e8cbba8b64, type: 3}
+  Font: {fileID: 12800000, guid: 9d0259b67f203c04381cbe3c977c7d31, type: 3}
+  emotionPortraits:
+    standart: {fileID: 21300000, guid: cdc153674184d804faf37cd430fc56da, type: 3}
+    happy: {fileID: 21300000, guid: cdc153674184d804faf37cd430fc56da, type: 3}
+    angry: {fileID: 21300000, guid: cdc153674184d804faf37cd430fc56da, type: 3}

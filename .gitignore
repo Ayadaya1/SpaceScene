@@ -1,0 +1,28 @@
+# Unity generated meta files
+*.meta
+
+# Unity cache directory
+Library/
+
+# Unity project settings directory
+ProjectSettings/
+
+# Unity build files
+[Ll]og[Cc]*
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.DS_Store
+*.apk
+*.exe
+*.zip
+
+# Unity generated temp files
+Temp/
+
+# Unity generated obj and library files
+obj/
+[Tt]emp/
+[Bb]uild/
+[Ll]ocal[Pp]ackages/
